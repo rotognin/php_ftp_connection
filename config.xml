@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<movimento><subir><local>I:/subir/</local><server>/subiu/</server></subir><baixar><server>/arquivos/</server><local>I:/baixou/</local></baixar><acesso><server>ftp.servidor.com.br</server><porta>21</porta><login>login_ftp</login><password>senha_ftp</password></acesso></movimento>
